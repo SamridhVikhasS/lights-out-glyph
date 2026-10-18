@@ -10,8 +10,8 @@ Five red bars light up one by one on the back of the phone, hold for a random mo
 
 <table align="center">
   <tr>
-    <td align="center"><img src="images/matrix.jpg" alt="Reaction time shown on the Glyph Matrix" width="300"></td>
-    <td align="center"><img src="images/screen.png" alt="On-screen mirror with best times" width="200"></td>
+    <td align="center"><img src="images/matrix_time.jpg" alt="Reaction time shown on the Glyph Matrix" width="300"></td>
+    <td align="center"><img src="images/matrix_1.jpg" alt="On-screen mirror with best times" width="200"></td>
   </tr>
   <tr>
     <td align="center"><sub>Reaction time on the Glyph Matrix</sub></td>

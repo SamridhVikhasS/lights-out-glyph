@@ -4,7 +4,20 @@ A start-lights reaction game for the **Glyph Matrix** on the Nothing Phone (4a) 
 
 Five red bars light up one by one on the back of the phone, hold for a random moment, then go dark. Hit a volume key as fast as you can. Your reaction time appears on the matrix in milliseconds.
 
-<!-- Add a photo of the matrix here: images/matrix.jpg -->
+<p align="center">
+  <img src="images/sequence.gif" alt="One full round: lights fill, go dark, reaction time appears" width="360">
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="images/matrix.jpg" alt="Reaction time shown on the Glyph Matrix" width="300"></td>
+    <td align="center"><img src="images/screen.png" alt="On-screen mirror with best times" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Reaction time on the Glyph Matrix</sub></td>
+    <td align="center"><sub>On-screen mirror and saved bests</sub></td>
+  </tr>
+</table>
 
 ## Features
 
